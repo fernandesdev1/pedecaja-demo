@@ -1,3 +1,6 @@
+
+
+
 # PedeCaja – Demo
 
 Exemplo do sistema PedeCaja, demonstrando funcionalidades e fluxo de operação de uma aplicação de gestão de pedidos e entregas.
@@ -6,9 +9,9 @@ Exemplo do sistema PedeCaja, demonstrando funcionalidades e fluxo de operação 
 
 ## Visão geral
 
-O PedeCaja é um sistema desenvolvido para centralizar o gerenciamento de pedidos, entregas e acompanhamento de status em uma única interface.
+O PedeCaja é um sistema desenvolvido para centralizar o gerenciamento de pedidos, produtos e acompanhamento operacional em uma única interface.
 
-A aplicação foi projetada com foco em organização de processos operacionais e eficiência no fluxo de trabalho.
+A aplicação foi projetada para facilitar o controle de operações e organizar o fluxo de trabalho de forma clara e eficiente.
 
 ---
 
@@ -21,6 +24,20 @@ A aplicação foi projetada com foco em organização de processos operacionais 
 - Interface responsiva
 - GPS
 - Pagamento via PIX e Cartão
+
+---
+
+## Interface do sistema
+
+### Dashboard do cliente
+
+![Dashboard do cliente](./dash.png)
+
+---
+
+### Gestão de produtos
+
+![Gestão de produtos](./products.png)
 
 ---
 
